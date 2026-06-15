@@ -15,12 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=andrewknowyou&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=andrewknowyou&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=andrewknowyou&icon=0&color=0)](https://visitcount.itsvg.in)
 
